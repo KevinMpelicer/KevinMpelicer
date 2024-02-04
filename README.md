@@ -17,4 +17,5 @@
  
 <div> 
   <a href="https://linkedin.com/in/kevin-magalhães-araujo-7327bab9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/devkev97?igsh=bDA2Z2E5cWxtb3Fz" target="_blank"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/388e4ae6ead6fbdd3de1da4e2129db69c4ab9e9d/public/icons/instagram/instagram.svg" size="30" height="30" target="_blank"></a>
 </div>
